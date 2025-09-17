@@ -7,7 +7,8 @@ Z veřejně dostupných dat byly vytvořeny dvě tabulky.
 Tabulka 1 **t_lucie_vackova_project_sql_primary_final** obsahuje data mezd a cen potravin za Českou republiku.  
 Tabulka 2 **t_lucie_vackova_project_sql_secondary_final** obsahuje dodatečná data o dalších evropských státech.  
 Tabulky obsahují data z období let 2006-2018.  
-Z vytvořených tabulek byly získány odpovědi na výzkumné otázky.
+Z vytvořených tabulek byly získány odpovědi na výzkumné otázky.  
+Data z některých otázek byla ještě zpracována v Excelu. Název přiloženého souboru je *Zpracování dat*.
 
 ## Tvorba tabulky 1
 Tabulka byla vytvořena sjednocením tabulek czechia_payroll a czechia_price.  
