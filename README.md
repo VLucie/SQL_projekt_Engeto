@@ -5,23 +5,23 @@ Porovnání dostupnosti potravin na základě průměrných příjmů za určit�
 Tento projekt byl vypracován v rámci kurzu Datová akademie od Engeto.
 Z veřejně dostupných dat byly vytvořeny dvě tabulky.  
 Tabulka 1 **t_lucie_vackova_project_sql_primary_final** obsahuje data mezd a cen potravin za Českou republiku.  
-Tabulka 2 **t_lucie_vackova_project_sql_secondary_final** obsahuje dodatečná data o dalších evropských státech.
-Tabulky obsahují data z období let 2006-2018.
+Tabulka 2 **t_lucie_vackova_project_sql_secondary_final** obsahuje dodatečná data o dalších evropských státech.  
+Tabulky obsahují data z období let 2006-2018.  
 Z vytvořených tabulek byly získány odpovědi na výzkumné otázky.
 
 ## Tvorba tabulky 1
-Tabulka byla vytvořena sjednocením tabulek czechia_payroll a czechia_price.
-Tabulky byly spojeny přes porovnávané období tj. roky 2006-2018.
-Pro každý rok a každé odvětví jsou v tabulce uvedeny
-•	měsíční průměrná mzda v daném odvětví,
-•	průměrná cena každé kategorie potraviny.
+Tabulka byla vytvořena sjednocením tabulek czechia_payroll a czechia_price.  
+Tabulky byly spojeny přes porovnávané období tj. roky 2006-2018.  
+Pro každý rok a každé odvětví jsou v tabulce uvedeny  
+•	měsíční průměrná mzda v daném odvětví,  
+•	průměrná cena každé kategorie potraviny.  
 Pro výpočet průměrné mzdy byla použita fyzická mzda, která se nepřepočítává a tudíž odpovídá reálným příjmům osob.
 Průměrná mzda za daný rok byla vypočítána jako průměr měsíčních mezd ze všech kvartálů toho roku.
 Průměrná roční cena potravin byla stanovena jako průměr cen ze všech měřených období během daného roku.
 Regiony byly filtrovány na null, aby ceny byly celostátní a nebyly rozděleny podle regionů.
 
 ## Tvorba tabulky 2
-Tabulka byla vytvořena z tabulek countries a economies.
+Tabulka byla vytvořena z tabulek countries a economies.  
 Z tabulky countries byly vyfiltrovány pouze evropské země. 
 Z tabulky economies byly vyfiltrovány informace o hdp, populaci a gini indexu pouze v porovnávaných letech 2006 – 2018. Tabulky byly spojeny přes název země.
 
@@ -30,11 +30,11 @@ Přepočítané průměrné mzdy ve všech odvětvích ve sledovaném období m�
 
 ## Otázka 2: Kolik je možné si koupit litrů mléka a kilogramů chleba za první a poslední srovnatelné období v dostupných datech cen a mezd?
 
-Rok **2006** : 
-Chléb konzumní kmínový   	  	1262 kg za rok
-Mléko polotučné pasterované	  1409	l za rok
-Rok **2018**:
-Chléb konzumní kmínový	     	1319	kg za rok
+Rok **2006** :   
+Chléb konzumní kmínový   	  	1262 kg za rok  
+Mléko polotučné pasterované	  1409	l za rok  
+Rok **2018**:  
+Chléb konzumní kmínový	     	1319	kg za rok  
 Mléko polotučné pasterované		1614	 l za rok
 
 V roce 2018 si bylo možné z průměrné mzdy koupit o 4,5% více chleba a o 14,5% více mléka.
