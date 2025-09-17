@@ -3,8 +3,8 @@ Porovnání dostupnosti potravin na základě průměrných příjmů za určit�
 
 ## Popis projektu
 Tento projekt byl vypracován v rámci kurzu Datová akademie od Engeto.
-Z veřejně dostupných dat byly vytvořeny dvě tabulky. 
-Tabulka 1 **t_lucie_vackova_project_sql_primary_final** obsahuje data mezd a cen potravin za Českou republiku.
+Z veřejně dostupných dat byly vytvořeny dvě tabulky.  
+Tabulka 1 **t_lucie_vackova_project_sql_primary_final** obsahuje data mezd a cen potravin za Českou republiku.  
 Tabulka 2 **t_lucie_vackova_project_sql_secondary_final** obsahuje dodatečná data o dalších evropských státech.
 Tabulky obsahují data z období let 2006-2018.
 Z vytvořených tabulek byly získány odpovědi na výzkumné otázky.
