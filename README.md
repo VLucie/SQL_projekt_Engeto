@@ -46,6 +46,6 @@ Od roku 2006 do roku 2018 nejvíce zdražilo máslo o 98,4%. Naopak cukr krystal
 V žádném roce nedošlo k výrazně vyššímu nárůstu cen potravin oproti mzdám (o více než 10%). Nejvyšší meziroční nárůst cen potravin vůči mzdám byl v roce 2013 a to o 6,8%.
 
 ## Otázka 5: Má výška HDP vliv na změny ve mzdách a cenách potravin? Neboli, pokud HDP vzroste výrazněji v jednom roce, projeví se to na cenách potravin či mzdách ve stejném nebo následujícím roce výraznějším růstem?
-
-
+Z hodnot meziročního procentuálního vývoje cen, mezd a HDP se nedá jistě říci, že by se rostoucí HDP vždy projevilo i růstem cen a mezd.  
+Například v roce 2007 a 2017 došlo k výraznějšímu růstu HDP a v daném roce i v roce následujícím došlo ke zvyšování cen i mezd. Ale v roce 2015, kdy meziročně vzrostlo HDP (také o více než 5%), došlo naopak k poklesu cen a méně výraznému růstu mezd v daném i následujícím roce.
 
